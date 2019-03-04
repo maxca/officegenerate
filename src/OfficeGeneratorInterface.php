@@ -14,7 +14,7 @@ interface OfficeGeneratorInterface
      * @param string $filename
      * @return mixed
      */
-    public function save($filename);
+    public function save(string $filename);
 
     /**
      * @param array $rows

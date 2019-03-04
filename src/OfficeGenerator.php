@@ -2,6 +2,7 @@
 
 namespace Samark\OfficeGenerate;
 
+use PhpOffice\PhpWord\TemplateProcessor;
 /**
  * Class OfficeGenerator
  * @package Samark\OfficeGenerate
